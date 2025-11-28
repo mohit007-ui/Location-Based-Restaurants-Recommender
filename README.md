@@ -1,6 +1,6 @@
 🍽️ Restaurant Recommendation System (Las Vegas) — Yelp Dataset + K-Means Clustering
 
-This project is a location-based Restaurants Recommendation System built using the Yelp Academic Dataset.
+This project is a location-based Restaurant Recommendation System built using the Yelp Academic Dataset.
 It identifies restaurant clusters in Las Vegas (NV) using K-Means clustering, visualizes them on interactive maps, and recommends the best nearby restaurants based on user latitude and longitude.
 
 ⭐ Project Highlights
